@@ -8,7 +8,7 @@
 <div>
     <h1 align="center">The final look of the website</h1>
     <div align="center">
-        <video src="0417.mp4"></video>
+        <video autoplay src="0417.mp4" width="500"></video>
     </div>
 </div>
 <br /><br />
